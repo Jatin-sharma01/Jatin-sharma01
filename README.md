@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin-sharma01&label=Profile%20views&color=0e75b6&style=flat" alt="jatin-sharma01" /> </p>
 
-- 🔭 I’m currently working in **Riso**
+- 🔭 I’m currently working at **Riso**
 
 - 🌱 I’m currently learning **React, Typescript,**
 
